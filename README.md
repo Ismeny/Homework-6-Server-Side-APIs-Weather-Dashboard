@@ -1,7 +1,7 @@
 # Homework-6-Server-Side-APIs-Weather-Dashboard
 
 ## Description
-This project is a work day planner for regular business hours. You are able to type what you have planned for each hour. There is special color coding to effectively display the past, present, and future hours and what you have planned. This project uses local storage to keep the input placed in the time blocks. 
+This project is a weather dashboard that allows you to search any city in the United States and get the current and 5 day weather forecast. This project uses local storage so the user is able to click refresh the page and see their previous search history. If the user clicks on the search history it will pull up the current weather information for that city again. 
 
 
 ### Table of Contents 
@@ -13,20 +13,19 @@ This project is a work day planner for regular business hours. You are able to t
 * Test
 
 ## Installation
-Go to URL : ***https://ismeny.github.io/Homework-5-Third-Party-APIs/***
+Go to URL : ***https://ismeny.github.io/Homework-6-Server-Side-APIs-Weather-Dashboard/***
 
-![ScreenShot](screenshot.png)
+![Screenshot](assets/images/weatherdashboard.png)
 
 
 ## Usage
-When opening the work day planner you are presented with the date at the top of the page. You can then plan any work events/ or make notes for yourself. The planner is suited for regular business hours from 9am -5pm. There is a special color coding that easily displays the past, present, and future hours. When you type into the work day planner you will be able to refresh the page and still see your tasks. 
+Go to URL and search any city in the United States. When you click submit the current weather and 5 day weather forecast will populate. You can search another city and the information for that city will then come up and you will begin to see city names in your saved searches. You can then go back and forth between the saved searches to view their weather without having to re-type the city name. If you leave the page or refresh you will still be able to come back to your saved searches. 
+
 
 ## Credits
-Received help from:
-* Jose Sachango- Tutor
-* Sue Lee - peer    
+Received help from: 
 * Jayla De'nae - peer
-* Ron - peer
+* Damien Luzzo - peer 
 * Stephanie Cortez - peer
 * Ethan Cho - peer
 
