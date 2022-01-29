@@ -1,4 +1,4 @@
-# Homework-6-Server-Side-APIs-Weather-Dashboard
+# Server-Side-APIs-Weather-Dashboard
 
 ## Description
 This project is a weather dashboard that allows you to search any city in the United States and get the current and 5 day weather forecast. This project uses local storage so the user is able to click refresh the page and see their previous search history. If the user clicks on the search history it will pull up the current weather information for that city again. 
@@ -13,7 +13,7 @@ This project is a weather dashboard that allows you to search any city in the Un
 * Test
 
 ## Installation
-Go to URL : ***https://ismeny.github.io/Homework-6-Server-Side-APIs-Weather-Dashboard/***
+Go to URL : ***https://ismeny.github.io/Server-Side-APIs-Weather-Dashboard/***
 
 ![Screenshot](assets/images/weatherdashboard.png)
 
